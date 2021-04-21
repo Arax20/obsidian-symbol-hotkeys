@@ -1,9 +1,9 @@
 {
-	"id": "obsidian-chem",
-	"name": "Latex+Chem Plugin",
-	"version": "0.0.1",
+	"id": "symbol-hotkeys",
+	"name": "Symbol Hotkeys",
+	"version": "1.0.0.",
 	"minAppVersion": "0.9.12",
-	"description": "This is a hotkey plugin for using Latex and mhChem in Obsidian",
+	"description": "A plugin that uses leader-key functionality for typing latex symbols",
 	"author": "Chantapat Sheanakul",
 	"authorUrl": "https://obsidian.md/about",
 	"isDesktopOnly": false

@@ -1,7 +1,7 @@
 {
-  "name": "obsidian-chem",
-  "version": "0.0.1",
-  "description": "This is a hotkey plugin for using Latex and mhChem in Obsidian",
+  "name": "symbol-hotkeys",
+  "version": "1.0.0",
+  "description": "A plugin that uses leader-key functionality for typing latex symbols",
   "main": "main.js",
   "scripts": {
     "dev": "rollup --config rollup.config.js -w",
